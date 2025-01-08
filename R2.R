@@ -10,3 +10,5 @@
 a=5
 b=a
 
+# ein paar Aenderungen an Skript R2.R
+
